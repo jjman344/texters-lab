@@ -1,3 +1,31 @@
+@import url(http://fonts.googleapis.com/css?family=Oxygen:300);
+
+/* HOMEPAGE */ 
+@import url(http://fonts.googleapis.com/css?family=Oxygen:300);
 body {
-  background-color: blue;
+  background-image: url("https://d13pix9kaak6wt.cloudfront.net/background/parchem_1339598553_88.jpg");
+   
+  font-family: 'Oxygen', sans-serif;
+}
+head{
+    font-family: 'Oxygen', sans-serif;
+}
+#heading{
+  position: relative;
+  display: inline-block;
+  font-size: 70px;
+   font-family: 'Oxygen', sans-serif;
+}
+#image{
+  text-align: center;
+  
+}
+#button{
+  margin: -100px 10px 0 0;
+  height: 140px;
+  position: relative;
+}
+h4{
+      font-family: 'Oxygen', sans-serif;
+
 }
